@@ -1,0 +1,84 @@
+{
+  "skills": [
+    {
+      "title": "Roles",
+      "tags": [
+        "Software Developer",
+        "Technical Project Manager",
+        "Frontend Developer",
+        "Former Fitness Coach"
+      ]
+    },
+    {
+      "title": "Programming Languages",
+      "tags": [
+        "Python",
+        "Java",
+        "C#",
+        "JavaScript",
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "title": "Web Technologies",
+      "tags": [
+        "React",
+        "Angular",
+        "Tailwind CSS",
+        "TypeScript",
+        "Vite",
+        "Git",
+        "GitHub",
+        "VS Code"
+      ]
+    },
+    {
+      "title": "Server Side / Back End",
+      "tags": [
+        "Node.js",
+        "Express.js",
+        "Django",
+        "REST APIs"
+      ]
+    },
+    {
+      "title": "Databases",
+      "tags": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "title": "Fitness Coaching Experience",
+      "tags": [
+        "Group Fitness Instructor",
+        "One-on-One Personal Training",
+        "Strength & Conditioning Classes",
+        "Flexibility & Mobility Training",
+        "Motivational Coaching",
+        "Workout Planning & Programming"
+      ]
+    },
+    {
+      "title": "Volunteer Experience",
+      "tags": [
+        "Community Event Organizer",
+        "Social Support Volunteer",
+        "Teamwork & Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "title": "Flexibility / Adaptability",
+      "tags": [
+        "Quick Learner",
+        "Open to Change",
+        "Resilient",
+        "Problem Solver",
+        "Team Player"
+      ]
+    }
+  ]
+}

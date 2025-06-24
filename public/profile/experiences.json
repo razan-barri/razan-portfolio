@@ -1,0 +1,56 @@
+{
+  "experiences": [
+    {
+      "cardtitle": "Software Developer",
+      "cardsubtitle": "Freelance & Academic Projects",
+      "subtitle": "Web Development",
+      "workDescription": [
+        "Built responsive web applications using React, JavaScript, HTML, and CSS.",
+        "Applied clean code principles and version control using Git & GitHub.",
+        "Graduated with GPA 4.29 (With Honors) from Taibah University in Web Development.",
+        "Completed front-end certification from W3Schools."
+      ],
+      "dateText": "2023 – Present",
+      "Imgsrc": "https://cdn-icons-png.flaticon.com/512/8874/8874768.png"
+    },
+    {
+      "cardtitle": "Technical Project Manager",
+      "cardsubtitle": "University & Volunteering",
+      "subtitle": "Event & Team Management",
+      "workDescription": [
+        "Led planning and execution of university events and student-led initiatives.",
+        "Organized volunteer drives and managed logistics for outreach programs.",
+        "Coordinated guest invitations and handled VIP reception at formal events.",
+        "Planned meetings and communication with cross-functional teams."
+      ],
+      "dateText": "2021 – 2023",
+      "Imgsrc": "https://cdn-icons-png.flaticon.com/512/2634/2634501.png"
+    },
+    {
+      "cardtitle": "Certified Fitness Coach",
+      "cardsubtitle": "Al Rawad Club",
+      "subtitle": "Health & Fitness Training",
+      "workDescription": [
+        "Provided one-on-one personal training and group fitness classes.",
+        "Specialized in strength, flexibility, and mobility coaching.",
+        "Developed workout plans tailored to individual goals.",
+        "Motivated clients to adopt sustainable healthy habits."
+      ],
+      "dateText": "2020 – Present",
+      "Imgsrc": "https://cdn-icons-png.flaticon.com/512/3270/3270938.png"
+    },
+    {
+      "cardtitle": "Volunteer Experience",
+      "cardsubtitle": "King Faisal Specialist Hospital",
+      "subtitle": "Patient Support & Community Involvement",
+      "workDescription": [
+        "Completed 204 hours of volunteer work with patient care and administrative tasks.",
+        "Supported medical staff and coordinated with patients and families.",
+        "Assisted in organizing community health awareness events.",
+        "Enhanced soft skills in empathy, communication, and responsibility."
+      ],
+      "dateText": "2022",
+      "Imgsrc": "https://cdn-icons-png.flaticon.com/512/12058/12058750.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "image": "https://img.freepik.com/free-vector/portfolio-concept-illustration_114360-676.jpg",
+      "title": "Personal Portfolio Website",
+      "bodyText": "A responsive React-based personal website showcasing my work, experience, and skills.",
+      "links": [
+        {
+          "text": "Visit Site",
+          "href": "https://dev-portfolio-razan-barri.pantheonsite.io/"
+        }
+      ],
+      "tags": ["React", "HTML", "CSS"]
+    },
+    {
+      "image": "https://cdn-icons-png.flaticon.com/512/5684/5684050.png",
+      "title": "Fitness Coaching Website",
+      "bodyText": "A site designed to present my fitness coaching services, programs, and training tips.",
+      "links": [
+        {
+          "text": "Visit Site",
+          "href": "https://dev-fitness-r.pantheonsite.io/"
+        }
+      ],
+      "tags": ["WordPress", "Elementor", "Pantheon"]
+    },
+    {
+"image": "https://img.freepik.com/free-vector/young-student-university-campus_23-2148655882.jpg"
+,
+      "title": "MyHealth – Graduation Project",
+      "bodyText": "A web app for healthcare in Almadinah allowing patients to book appointments and manage medications. Built with Django and PostgreSQL.",
+      "links": [],
+      "tags": ["Django", "PostgreSQL", "HTML", "CSS", "Bootstrap", "JavaScript"]
+    },
+    {
+     "image": "https://img.freepik.com/free-vector/accounting-concept-illustration_114360-2390.jpg"
+,
+      "title": "ABBU – Financial Management Platform",
+      "bodyText": "A platform for cloud-based financial management. I developed the frontend using React to ensure a smooth and intuitive user experience.",
+      "links": [
+        {
+          "text": "Visit Site",
+          "href": "https://ABBU.io"
+        }
+      ],
+      "tags": ["React", "JavaScript", "CSS"]
+    }
+  ]
+}

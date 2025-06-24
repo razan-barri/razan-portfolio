@@ -1,0 +1,28 @@
+{
+  "certifications": [
+    {
+      "title": "Diploma in Web Development",
+      "image": "https://img.freepik.com/free-vector/elegant-blue-gold-diploma-certificate-template_1017-17257.jpg?w=1380",
+      "bodyText": "Taibah University – GPA: 4.29 / 5.0 (with Honors)",
+      "credentialUrl": ""
+    },
+    {
+      "title": "Certified Fitness Instructor",
+      "image": "https://img.freepik.com/free-vector/elegant-blue-gold-diploma-certificate-template_1017-17257.jpg?w=1380",
+      "bodyText": "Al Rawad Club – Since 2020",
+      "credentialUrl": ""
+    },
+    {
+      "title": "Volunteer Certificate – 204 Hours",
+      "image": "https://img.freepik.com/free-vector/elegant-blue-gold-diploma-certificate-template_1017-17257.jpg?w=1380",
+      "bodyText": "King Faisal Specialist Hospital",
+      "credentialUrl": ""
+    },
+    {
+      "title": "Front-End Certificate",
+      "image": "https://img.freepik.com/free-vector/elegant-blue-gold-diploma-certificate-template_1017-17257.jpg?w=1380",
+      "bodyText": "W3Schools – 2024",
+      "credentialUrl": ""
+    }
+  ]
+}

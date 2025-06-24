@@ -1,0 +1,15 @@
+{
+  "profilePic": {
+    "source": "images/HomePageImg.png"
+  },
+  "name": "Razan Barri",
+  "roles": [
+    "Software Developer",
+    "Technical Project Manager",
+    "Former Fitness Coach"
+  ],
+  "paragraph": [
+    "I'm Razan Barri, a Software Developer with a background in project management and fitness coaching. I bring a unique combination of technical and interpersonal skills, shaped by years of working with both teams and individuals. My experience in tech and sports has taught me discipline, creativity, and how to build systems — whether in code or in people’s lives.",
+    "I graduated with a strong academic record, achieving a GPA of 4.30 in Web Development, which reflects my dedication and expertise in this field."
+  ]
+}
